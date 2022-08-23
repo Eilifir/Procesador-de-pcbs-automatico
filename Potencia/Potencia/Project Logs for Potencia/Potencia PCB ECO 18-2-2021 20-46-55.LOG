@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=RESET Pin=POWER1-6
+Change component parameters: Designator = "AD"; Footprint = "Header 6x1 8.5mm"; UniqueID = "\HQRJSOSW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 3"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 4"; Value = "Arrow"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2699089"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "SAM1198-06-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 3"; Value = "2699088"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 4"; Value = "2699075"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AD0 Pin=AD-1
+Added Pin To Net: NetName=AD1 Pin=AD-2
+Added Pin To Net: NetName=AD2 Pin=AD-3
+Added Pin To Net: NetName=AD3 Pin=AD-4
+Added Pin To Net: NetName=AD4 Pin=AD-5
+Added Pin To Net: NetName=AD5 Pin=AD-6
+Added Pin To Net: NetName=RESET A Pin=POWER1-6
+Added Net: Name=RESET A
+Added Member To Class: ClassName=Potncia Member=Component AD
+Added Room: Name=Potncia
