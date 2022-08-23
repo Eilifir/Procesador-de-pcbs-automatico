@@ -1,0 +1,55 @@
+Change Component Comment : Designator=U Old Comment=A4988_STEPPER_MOTOR_DRIVER_CARRIER New Comment=Driver pololu 4988A paso a paso
+Change Component Comment : Designator=P6 Old Comment=MHDR1X2 New Comment=Entrada 5V
+Change Component Comment : Designator=P7 Old Comment=MHDR1X2 New Comment=Entrada 12V
+Change Component Comment : Designator=P5 Old Comment=MHDR1X2 New Comment=Entrada motoreductor A
+Change Component Comment : Designator=P9 Old Comment=MHDR1X2 New Comment=Entrada motoreductor B
+Change Component Comment : Designator=P1 Old Comment=MHDR1X2 New Comment=Salida motoreductor A
+Change Component Comment : Designator=P8 Old Comment=MHDR1X2 New Comment=Salida motoreductor B
+Change Component Comment : Designator=P2 Old Comment=MHDR1X2 New Comment=Salida paso a paso A
+Change Component Comment : Designator=P4 Old Comment=MHDR1X2 New Comment=Salida paso a paso B
+Change Component Comment : Designator=P3 Old Comment=MHDR1X3 New Comment=Entrada Paso a Paso
+Change component parameters: Designator = "K1"; Footprint = "RELAY_1-1721150-0"; UniqueID = "\WSWHGTFS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Comment_1"; Value = "Rele"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1-1721150-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1721150-0/TE%20Connectivity%20Potter%20&%20Brumfield%20Relays/view-part/735210/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2"; Footprint = "RELAY_1-1721150-0"; UniqueID = "\GKLGUFBV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Comment_1"; Value = "Rele"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1-1721150-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1721150-0/TE%20Connectivity%20Potter%20&%20Brumfield%20Relays/view-part/735210/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3"; Footprint = "RELAY_1-1721150-0"; UniqueID = "\UKKVCNPH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Comment_1"; Value = "Rele"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1-1721150-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1721150-0/TE%20Connectivity%20Potter%20&%20Brumfield%20Relays/view-part/735210/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "K4"; Footprint = "RELAY_1-1721150-0"; UniqueID = "\JXSRPXUQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Comment_1"; Value = "Rele"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1-1721150-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1721150-0/TE%20Connectivity%20Potter%20&%20Brumfield%20Relays/view-part/735210/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Room: Name=Reles
